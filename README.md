@@ -1,26 +1,27 @@
-- 👋 Hi, I’m @GARTSIO
-- 
-* Web Garts.Exchange: https://garts.exchange/
+- 👋 Hi, We're @GARTSIO
+* Official Website: https://garts.io/
 
-* Telegram Garts.Exchange: https://t.me/gartschannel
+* Web Exchange: https://garts.exchange/
 
-* Fanpage Garts.Exchange: https://www.facebook.com/GartsExchange
+* Telegram : https://t.me/gartschannel
 
-* Instagram Garts.Exchange: https://www.instagram.com/garts_exchange/
+* Fanpage: https://www.facebook.com/GartsExchange
 
-* Twitter Garts.Exchange: https://twitter.com/garts_exchange
+* Instagram: https://www.instagram.com/garts_exchange/
 
-* Youtube Garts.Exchange: https://www.youtube.com/channel/UC2VQM541twvwj6HBswGgDLg
+* Twitter: https://twitter.com/garts_exchange
 
-* Tiktok Garts.Exchange: https://www.tiktok.com/@garts.exchange
+* Youtube: https://www.youtube.com/channel/UC2VQM541twvwj6HBswGgDLg
 
-* Linkedin Garts.Exchange: https://www.linkedin.com/company/garts-exchange/
+* Tiktok: https://www.tiktok.com/@garts.exchange
 
-* Discord Link: https://discord.gg/M4BfPwHbNk
+* Linkedin: https://www.linkedin.com/company/garts-exchange/
 
-* Reddit Link: https://www.reddit.com/r/GARTS_EXCHANGE/
+* Discord: https://discord.gg/M4BfPwHbNk
 
-* Medium Link: https://medium.com/@garts_exchange
+* Reddit: https://www.reddit.com/r/GARTS_EXCHANGE/
+
+* Medium: https://medium.com/@garts_exchange
 
 <!---
 GARTSIO/GARTSIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
